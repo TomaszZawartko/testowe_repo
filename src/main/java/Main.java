@@ -16,5 +16,6 @@ public class Main {
         System.out.println("added during my work in auth-7");
         System.out.println("last commit in auth-7");
         System.out.println("Please call fish here: " + Fish.say());
+        System.out.println("Please call sth other here: ");
     }
 }
