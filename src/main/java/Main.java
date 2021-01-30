@@ -12,5 +12,6 @@ public class Main {
         System.out.println("third commit to feature/auth-2");
         System.out.println("first commit to auth-6");
         System.out.println("added during my work in auth-7");
+        System.out.println("last commit in auth-7");
     }
 }
