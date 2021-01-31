@@ -18,6 +18,7 @@ public class Main {
         System.out.println("Please call fish here: " + Fish.say());
         System.out.println("Please call sth other here: ");
         System.out.println("xyz");
+        System.out.println("abc");
 
     }
 }
