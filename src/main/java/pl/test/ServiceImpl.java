@@ -12,5 +12,6 @@ public class ServiceImpl implements Service{
         System.out.println("P");
         System.out.println("R");
         System.out.println("stashed item");
+        System.out.println("stashed");
     }
 }
