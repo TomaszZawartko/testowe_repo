@@ -10,5 +10,6 @@ public class ServiceImpl implements Service{
         System.out.println("Still waiting for class from auth-8 & auth-9: " + Dog.saySth() + Cat.say());
         System.out.println("P");
         System.out.println("R");
+        System.out.println("stashed");
     }
 }
