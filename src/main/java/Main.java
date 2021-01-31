@@ -25,6 +25,5 @@ public class Main {
         System.out.println("c");
         System.out.println("d");
         System.out.println("f");
-        System.out.println("g");
     }
 }
